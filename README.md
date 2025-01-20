@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Profile!
 
-<!--
-**yLqx/yLqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 💻 **Programming Skills**:  
+  I am proficient in **HTML**, **CSS**, **JavaScript**, **Python**, **Java**, and have a foundational understanding of **PHP**.  
+  Additionally, I work with **TensorFlow**, **Bootstrap**, and **Linux**.
 
-Here are some ideas to get you started:
+- 🎨 **Design Tools**:  
+  I have experience using **Photoshop**, **Adobe Illustrator**, and **Adobe Premiere**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Developer Tools**:  
+  I use **Visual Studio Code**, **FileZilla**, and other developer tools to build and maintain my projects.
+
+---
+
+### 🚀 What I'm Doing
+- 🔭 Currently learning and improving my skills in advanced web and software development.
+- 🌱 Exploring the exciting world of **Machine Learning** and **AI**.
+- 👯 Open to collaborating on **web development** and **game development** projects.
+
+---
+
+### 🌐 Connect with Me
+- 📹 [YouTube](https://www.youtube.com/@VonKYT)  
+- 💬 [Discord](vonk._)  
+- 📸 [Instagram](https://www.instagram.com/morad.gs)  
+
+---
+
+### ⚡ Fun Fact
+I enjoy experimenting with new technologies and creating innovative solutions for modern problems. Let's connect and create something amazing together!
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yLqx&show_icons=true&theme=radical)
